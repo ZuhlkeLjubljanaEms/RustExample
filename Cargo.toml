@@ -1,9 +1,9 @@
 [package]
 
-name = "hello"
-version = "0.0.1"
+name = "rustexample"
+version = "0.0.2"
 authors = [ "Immo Huneke <immo.huneke@zuhlke.com>" ]
 
 [[bin]]
 
-name = "hello"
+name = "rustexample"
