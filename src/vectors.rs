@@ -28,3 +28,6 @@ pub fn vectors() {
     // Out of bounds indexing yields a task failure
     println!("Fourth element: {}", xs.get(3));
 }
+
+pub trait Trait {
+}

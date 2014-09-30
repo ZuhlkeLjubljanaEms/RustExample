@@ -1,3 +1,5 @@
+use vectors::Trait;
+
 mod hello;
 mod vectors;
 
