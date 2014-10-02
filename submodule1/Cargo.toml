@@ -1,0 +1,9 @@
+[package]
+
+name = "submodule1"
+version = "0.0.1"
+authors = [ "Immo Huneke <immo.huneke@zuhlke.com>" ]
+
+[[bin]]
+
+name = "submodule1"
